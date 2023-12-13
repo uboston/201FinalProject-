@@ -1,0 +1,40 @@
+
+a:visited{
+    color:rgb(211, 215, 7);
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: white;
+    background-image: url(https://t4.ftcdn.net/jpg/01/13/63/63/360_F_113636383_PGTfoDy9DQp8ksHR79Jw1VwPGIrCQHQg.jpg);
+    text-align: center;
+    margin: auto;
+}
+.numb {
+    text-align:left; 
+    width: 30%; 
+    margin:0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(242, 239, 239)
+}
+img{
+    display: block;
+    width:500px;
+    border: solid darkblue;
+    margin: auto;
+}
+h2{
+    font-size: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.family{
+    color: rgb(0, 255, 30);
+    font-size: 25px;
+}
+h4{
+    color: orange;
+    font-size: 25px;
+}
+.skillz{
+    color: bisque;
+}
